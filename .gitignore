@@ -1,0 +1,11 @@
+# DS_Store
+.DS_Store
+
+# Config
+config.py
+config.js
+config.*
+
+# Class files
+module/
+_challenge/
